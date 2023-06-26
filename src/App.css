@@ -38,13 +38,13 @@
 }
 
 .MyHeader {
-  background-color: #282c34;
-  color: beige;
+  background-color: #496aab;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
 .MyFooter {
-  background-color: black;
+  background-color: rgb(106, 106, 106);
   color: white;
   text-align: center;
 }
